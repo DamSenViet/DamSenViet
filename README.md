@@ -1,12 +1,13 @@
 # 🙌 Hi, I'm Viet 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=damsenviet&show_icons=true&title_color=000000)
+
 
 I'm a 🧑‍💻 **software engineer** and 👨‍🎨**UI/UX designer** passionate about making open-source
 software for the communities I participate in. I'm a self-motivated creator and
 am always looking forwardto learn new technologies to add to my toolkit. I'm
 excited for new opportunities, the chance to meet new people, and meaningfully
 contribute to promising software projects.
-
 
 ### 📬 Get In Touch
 <a href="https://vietdaitran.com/"><img src="https://img.shields.io/badge/-Website-black?&style=for-the-badge&logo=v&logoColor=white" height=25></a>
