@@ -9,7 +9,7 @@ contribute to promising software projects.
 
 
 ### 📬 Get In Touch
-<a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/-Website-black?&style=for-the-badge&logo=v&logoColor=white" height=25></a>
+<a href="https://vietdaitran.com/"><img src="https://img.shields.io/badge/-Website-black?&style=for-the-badge&logo=v&logoColor=white" height=25></a>
 <a href="https://www.twitter.com/damsenviet"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/viet-tran-b33485151/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://www.instagram.com/damsenviet/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
@@ -19,7 +19,7 @@ contribute to promising software projects.
 
 <!-- webstack -->
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-
+<img alt="Java" src="https://img.shields.io/badge/-Java-3776ab?style=flat-square&logo=java&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <!-- styliing -->
 <img alt="Css3" src="https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white" />
@@ -31,8 +31,6 @@ contribute to promising software projects.
 <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <!-- databases -->
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&
-logoColor=white" />
 <!-- frameworks -->
 <img alt="Vue" src="https://img.shields.io/badge/-Vue-50C08d?style=flat-square&logo=vue.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-0274ff?style=flat-square&logo=react&logoColor=white" />
@@ -43,16 +41,16 @@ logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-549ac8?style=flat-square&logo=webpack&logoColor=white" />
 <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img alt="Apollo" src="https://img.shields.io/badge/-Apollo_GraphQL-3f20ba?style=flat-square&logo=apollo-graphql&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479a0?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2391e6?style=flat-square&logo=docker&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d14a39?style=flat-square&logo=jenkins&logoColor=white" />
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-1373e7?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-3f81ec?style=flat-square&logo=google-cloud&logoColor=white" />
-<img alt="Apollo" src="https://img.shields.io/badge/-Apollo-3f20ba?style=flat-square&logo=apollo-graphql&logoColor=white" />
-
+<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Amazon_Web_Services-232f3e?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-
-<img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
 
 
 
