@@ -5,7 +5,7 @@
 
 I'm a 🧑‍💻 **software engineer** and 👨‍🎨**UI/UX designer** passionate about making open-source
 software for the communities I participate in. I'm a self-motivated creator and
-am always looking forwardto learn new technologies to add to my toolkit. I'm
+am always looking forward to learn new technologies to add to my toolkit. I'm
 excited for new opportunities, the chance to meet new people, and meaningfully
 contribute to promising software projects.
 
